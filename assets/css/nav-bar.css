@@ -1,0 +1,114 @@
+.aye {position: absolute;
+    width: 1061px;
+    height: 65px;
+    left: 0px;
+    top: 0px;
+    
+    background: #56CCF2;
+    list-style-type: none;}
+    .aye1{position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 467px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;}
+    .aye2 {position: absolute;
+    width: 125px;
+    height: 24px;
+    left: 560px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+    }
+    .aye3{position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 701px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+    }
+    .aye4 {position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 842px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+    }
+    .aye5 {position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 970px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+    }
+    img {position: absolute;
+    width: 63px;
+    height: 60px;
+    left: 18px;
+    top: 0px;
+    
+    background: url(ASUCKLES.png);}
+    .suckling1 {position: absolute;
+    width: 325px;
+    height: 25px;
+    left: 80px;
+    top: 30px;
+    
+    font-family: Proza Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    
+    color: #333333;}
+    
+    .logo {float:left;}
+    a {text-decoration: none;}
+    p {position: absolute;
+    width: 325px;
+    height: 25px;
+    left: 79px;
+    top: 0px;
+    
+    font-family: Proza Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    
+    color: #333333;
+    }
