@@ -1,4 +1,4 @@
-.aye {position: absolute;
+.nav {position: absolute;
     width: 1061px;
     height: 65px;
     left: 0px;
@@ -6,7 +6,7 @@
     
     background: #56CCF2;
     list-style-type: none;}
-    .aye1{position: absolute;
+    .nav-link {position: absolute;
     width: 111px;
     height: 24px;
     left: 467px;
@@ -19,7 +19,7 @@
     line-height: 17px;
     
     color: #333333;}
-    .aye2 {position: absolute;
+    .nav-link2{position: absolute;
     width: 125px;
     height: 24px;
     left: 560px;
@@ -33,7 +33,7 @@
     
     color: #333333;
     }
-    .aye3{position: absolute;
+    .nav-link3{position: absolute;
     width: 111px;
     height: 24px;
     left: 701px;
@@ -47,7 +47,7 @@
     
     color: #333333;
     }
-    .aye4 {position: absolute;
+    .nav-link4 {position: absolute;
     width: 111px;
     height: 24px;
     left: 842px;
@@ -61,7 +61,7 @@
     
     color: #333333;
     }
-    .aye5 {position: absolute;
+    .nav-link5 {position: absolute;
     width: 111px;
     height: 24px;
     left: 970px;
@@ -75,7 +75,7 @@
     
     color: #333333;
     }
-    img {position: absolute;
+    .how {position: absolute;
     width: 63px;
     height: 60px;
     left: 18px;
@@ -112,3 +112,10 @@
     
     color: #333333;
     }
+    #tuokpe {position: absolute;
+    width: 1100px;
+    height: 958px;
+    left: 0px;
+    top: 0px;
+    
+    background: #E7F5FB;}
