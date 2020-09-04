@@ -1,15 +1,18 @@
 .nav {position: absolute;
-    width: 1061px;
+    width: 1750px;
     height: 65px;
     left: 0px;
     top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
     
     background: #56CCF2;
     list-style-type: none;}
     .nav-link {position: absolute;
     width: 111px;
     height: 24px;
-    left: 467px;
+    left: 1088px;
     top: 25px;
     
     font-family: Quicksand;
@@ -22,7 +25,7 @@
     .nav-link2{position: absolute;
     width: 125px;
     height: 24px;
-    left: 560px;
+    left: 1186px;
     top: 25px;
     
     font-family: Quicksand;
@@ -36,7 +39,7 @@
     .nav-link3{position: absolute;
     width: 111px;
     height: 24px;
-    left: 701px;
+    left: 1314px;
     top: 25px;
     
     font-family: Quicksand;
@@ -50,7 +53,7 @@
     .nav-link4 {position: absolute;
     width: 111px;
     height: 24px;
-    left: 842px;
+    left: 1442px;
     top: 25px;
     
     font-family: Quicksand;
@@ -64,7 +67,7 @@
     .nav-link5 {position: absolute;
     width: 111px;
     height: 24px;
-    left: 970px;
+    left: 1570px;
     top: 25px;
     
     font-family: Quicksand;
@@ -113,7 +116,7 @@
     color: #333333;
     }
     #tuokpe {position: absolute;
-    width: 1100px;
+    width: 1750px;
     height: 958px;
     left: 0px;
     top: 0px;
