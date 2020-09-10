@@ -85,26 +85,22 @@
     top: 0px;
     
     background: url(ASUCKLES.png);}
-    .suckling1 {position: absolute;
+    .tuokpe {position: absolute;
+    width: 1750px;
+    height: 958px;
+    left: 0px;
+    top: 0px;}
+    .adaeze {position: absolute;
+        width: 273px;
+        height: 285px;
+        background-blend-mode: difference ;
+        
+    top:150px;
+left:100px;}
+p{position: absolute;
     width: 325px;
     height: 25px;
     left: 80px;
-    top: 30px;
-    
-    font-family: Proza Libre;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 24px;
-    line-height: 33px;
-    
-    color: #333333;}
-    
-    .logo {float:left;}
-    a {text-decoration: none;}
-    p {position: absolute;
-    width: 325px;
-    height: 25px;
-    left: 79px;
     top: 0px;
     
     font-family: Proza Libre;
@@ -115,10 +111,31 @@
     
     color: #333333;
     }
-    #tuokpe {position: absolute;
+    form{background-color: lightblue;
+        width:600px;
+      padding:20px;
+      margin-top:-350px ;
+      margin-left:512px;
+      font-size:18px;}
+      input[type=text]{width:100%;
+      padding:5px;
+      font-size:17px;}
+      input[type=submit]{ padding:5px;
+      font-size:18px;}
+      textarea{width:600px;
+      font-size:20px;
+      margin:auto;}
+    h6{font-size:20px;
+    color: black;
+margin-top: 450px;
+margin-left: 155px;}
+.ayee {(position: absolute;
     width: 1750px;
-    height: 958px;
-    left: 0px;
-    top: 0px;
+    height: 502.24px;
+    left: 153.01px;
+    top: 393px;
     
-    background: #E7F5FB;}
+    background: url(25-Colorful-Rainbow-Coloring-Pages-For-Your-Little-Ones.jpg);
+    background-blend-mode: darken;
+    border-radius: 141px;
+    transform: rotate(27deg););}
