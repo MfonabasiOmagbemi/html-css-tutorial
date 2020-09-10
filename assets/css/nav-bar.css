@@ -1,0 +1,141 @@
+.nav {position: absolute;
+    width: 1750px;
+    height: 65px;
+    left: 0px;
+    top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    
+    background: #56CCF2;
+    list-style-type: none;}
+    .nav-link {position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 1088px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;}
+    .nav-link2{position: absolute;
+    width: 125px;
+    height: 24px;
+    left: 1186px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+    }
+    .nav-link3{position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 1314px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+    }
+    .nav-link4 {position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 1442px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+    }
+    .nav-link5 {position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 1570px;
+    top: 25px;
+    
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #333333;
+    }
+    .how {position: absolute;
+    width: 63px;
+    height: 60px;
+    left: 18px;
+    top: 0px;
+    
+    background: url(ASUCKLES.png);}
+    .tuokpe {position: absolute;
+    width: 1750px;
+    height: 958px;
+    left: 0px;
+    top: 0px;}
+    .adaeze {position: absolute;
+        width: 273px;
+        height: 285px;
+        background-blend-mode: difference ;
+        
+    top:150px;
+left:100px;}
+p{position: absolute;
+    width: 325px;
+    height: 25px;
+    left: 80px;
+    top: 0px;
+    
+    font-family: Proza Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    
+    color: #333333;
+    }
+    form{background-color: lightblue;
+        width:600px;
+      padding:20px;
+      margin-top:-350px ;
+      margin-left:512px;
+      font-size:18px;}
+      input[type=text]{width:100%;
+      padding:5px;
+      font-size:17px;}
+      input[type=submit]{ padding:5px;
+      font-size:18px;}
+      textarea{width:600px;
+      font-size:20px;
+      margin:auto;}
+    h6{font-size:20px;
+    color: black;
+margin-top: 450px;
+margin-left: 155px;}
+.ayee {(position: absolute;
+    width: 1750px;
+    height: 502.24px;
+    left: 153.01px;
+    top: 393px;
+    
+    background: url(25-Colorful-Rainbow-Coloring-Pages-For-Your-Little-Ones.jpg);
+    background-blend-mode: darken;
+    border-radius: 141px;
+    transform: rotate(27deg););}
